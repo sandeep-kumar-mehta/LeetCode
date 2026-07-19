@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
