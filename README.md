@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
