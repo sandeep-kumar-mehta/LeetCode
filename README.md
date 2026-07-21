@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
