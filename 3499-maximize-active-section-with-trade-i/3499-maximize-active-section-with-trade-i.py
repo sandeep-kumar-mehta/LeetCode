@@ -1,26 +1,22 @@
+from math import inf
 class Solution:
     def maxActiveSectionsAfterTrade(self, s: str) -> int:
-        total_ones = 0
-        max_gain = 0
-
-        prev_zero = float("-inf")
+        cnt = s.count("1")
 
         i = 0
         n = len(s)
+        bestGain = 0
+        prev = -inf
 
         while i < n:
-            j = i
+            start = i
 
-            while j < n and s[j] == s[i]:
-                j += 1
-            length = j - i
+            while i < n and s[i] == s[start]:
+                i += 1
+            if s[start] =="0":
+                curr = i - start
+                bestGain = max(bestGain, prev + curr)
+                prev = curr
 
-            if s[i] == '1':
-                total_ones += length
-            else:
-                max_gain = max(max_gain, prev_zero + length)
-
-                prev_zero = length
-
-            i = j
-        return total_ones + max_gain
+        return cnt + bestGain
+        
