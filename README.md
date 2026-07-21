@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1470-shuffle-the-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
