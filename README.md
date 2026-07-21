@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0344-reverse-string) |
