@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
 | ------- |
